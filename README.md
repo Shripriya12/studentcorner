@@ -1,6 +1,6 @@
 # Student Website for College
 
-> Notes, PPTs, links and stuff.
+> Notes, PPTs, links and stuff. All you need!
 
 # For contribution read Contributing.md file.
 
